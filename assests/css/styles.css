@@ -46,3 +46,43 @@
     font-size: 20px;
     
 }
+.about-1 h1{ 
+    text-align: center;
+}
+.about-2{
+    margin-left: 50px;
+    margin-top: 50px;
+
+}
+.about-2 h1{
+    margin-bottom: 25px;
+    font-size: 30px;
+
+}
+.about-2 p{
+    line-height: 1.8;
+    font-size: 20px;
+}
+.section{
+    display: flex;
+}
+.images{
+    display: flex;
+    margin-top: 200px;
+    
+}
+.image-1{
+    margin-top: 100px;
+
+}
+.image-2{
+    margin-top: 0px;
+    margin-left: 50px;
+   
+    
+}
+.image-3{
+    margin-left: 50px;
+    margin-bottom: 10px;
+    
+}
